@@ -1,5 +1,7 @@
 <h1 align="center">  🛒 &nbsp; Shopping App 🛒 </h1>
 
+[SHOP-KARO BY RISHAV](https://afternoon-atoll-93127.herokuapp.com/)
+
 ## 🚩 &nbsp; Main Features
 
 > This App was made to track the order state since the customer place it
