@@ -1,4 +1,4 @@
-<h1 align="center">  🛒 &nbsp; Shopping App 🛒 </h1>
+<h1 align="center">  🛒 &nbsp; Shopping   website 🛒 </h1>
 
 [SHOP-KARO BY RISHAV](https://afternoon-atoll-93127.herokuapp.com/)
 
